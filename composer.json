@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-darb-zubaydah-stations",
+  "description": "Darb Zubaydah & Historic Hajj Caravan Route Birkat/Milestone Graph (خريطة محطات درب زبيدة وطرق الحج التاريخية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
